@@ -1,16 +1,25 @@
-<h1 align="center">Hi I'm Umidjon</h1>
+<h1 align="center">Hi 👋 I'm Umidjon</h1>
 
 <p align="center">
-💻 Web Developer | Python Developer
+💻 Web Developer | Python & Django Developer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Django+Developer;Web+Developer;Always+Learning+New+Things&center=true&width=500&height=50">
+<img src="68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f544650646d6d3372647a655a306b50337a472f67697068792e776562703f6369643d37393062373631316377373569783373336a6a3973776a7765673067726370366b3172383531677.webp" width="500">
 </p>
 
 ---
 
-### 🚀 Tech Stack
+### 🚀 About Me
+
+- 🧑‍💻 I’m learning **Python & Django**
+- 🌐 I build **Websites and Web Apps**
+- 📚 Always learning new technologies
+- 🎯 Goal: Become a **Professional Software Engineer**
+
+---
+
+### 🛠 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,github,vscode" />
@@ -30,7 +39,15 @@
 
 ---
 
-### 🌐 Connect with me
+### ⚡ Coding Life
+
+<p align="center">
+<img src="BB092-thumbnail.gif" width="500">
+</p>
+
+---
+
+### 🌐 Connect With Me
 
 <p align="center">
 <a href="https://t.me/">
