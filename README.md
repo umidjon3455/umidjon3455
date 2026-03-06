@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Umidjon</h1>
+<h1 align="center">Hi I'm Umidjon Abdullayev</h1>
 
 <p align="center">
 💻 Web Developer | Python & Django Developer
