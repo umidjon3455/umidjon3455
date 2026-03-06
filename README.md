@@ -40,13 +40,6 @@
 ---
 
 ### ⚡ Coding Life
-
-<p align="center">
-<img src="BB092-thumbnail.gif" width="500">
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">
