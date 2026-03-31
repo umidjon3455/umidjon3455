@@ -27,7 +27,6 @@
 
 ---
 
-### 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=umidjon3455&show_icons=true&theme=tokyonight">
@@ -39,9 +38,14 @@
 
 ---
 
-### ⚡ Coding Life
-### 🌐 Connect With Me
+ ⚡ Coding Life
+ 🌐 Connect With Me
 
+#### When I explain to the intern how he should build his SQL query:
+
+[When I explain to the intern how he should build his SQL query.webm](https://github.com/user-attachments/assets/92062575-a714-451e-a001-6d9d3486c961)
+
+- Follow me and I will follow you!
 <p align="center">
 <a href="https://t.me/">
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram">
@@ -54,7 +58,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Hi+I'm+Umidjon+Abdullayev;Python+Developer;Django+Backend+Developer;Future+Software+Engineer" />
 </p>
-## 📊 GitHub Stats
 
 ![Umidjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=umidjon3455&show_icons=true&theme=tokyonight)
 
