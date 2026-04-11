@@ -1,3 +1,10 @@
+<!--
+Hello. Thank you for forking a couple of my repositories. I just wanted to let you know that in your Github profile description you accidentally put "gitlub" instead of "gitlab", so put kind of links to a dead page. I thought at first you might have been listing another one of your Github pages since github and gitlab each only differ from "gitlub". 
+
+I hope this isn't too much of an imposition. Keep up the good work!
+-->
+
+
 <h1 align="center">Hi I'm Umidjon Abdullayev</h1>
 
 <p align="center">
