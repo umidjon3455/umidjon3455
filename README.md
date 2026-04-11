@@ -1,5 +1,5 @@
 <!--
-Hello. Thank you for forking a couple of my repositories. I just wanted to let you know that in your Github profile description you accidentally put "gitlub" instead of "gitlab", so it kind of links to a dead page. I thought at first you might have been listing another one of your Github pages since github and gitlab each only differ from "gitlub". 
+Hello. Thank you for forking a couple of my repositories. I just wanted to let you know that in your Github profile description you accidentally put "gitlub" instead of "gitlab", so it kind of links to a dead page. I thought at first you might have been listing another one of your Github pages since github and gitlab each only differ from "gitlub" by one letter. 
 
 I hope this isn't too much of an imposition. Keep up the good work!
 -->
