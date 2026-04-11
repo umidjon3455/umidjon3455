@@ -29,11 +29,11 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=umidjon3455&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=umidjon3455&show_icons=true&theme=tokyonight"> <!-- Error Fetching Resource -->
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umidjon3455&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umidjon3455&theme=tokyonight"> <!-- Error Fetching Resource -->
 </p>
 
 ---
