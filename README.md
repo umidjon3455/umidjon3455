@@ -29,11 +29,11 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=umidjon3455&show_icons=true&theme=tokyonight"> <!-- Error Fetching Resource -->
+<img src="https://github-readme-stats.vercel.app/api?username=umidjon3455&show_icons=true&theme=tokyonight">
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umidjon3455&theme=tokyonight"> <!-- Error Fetching Resource -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umidjon3455&theme=tokyonight">
 </p>
 
 ---
@@ -59,9 +59,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Hi+I'm+Umidjon+Abdullayev;Python+Developer;Django+Backend+Developer;Future+Software+Engineer" />
 </p>
 
-![Umidjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=umidjon3455&show_icons=true&theme=tokyonight)
+![Umidjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=umidjon3455&show_icons=true&theme=tokyonight) <!-- Error Fetching Resource -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umidjon3455&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umidjon3455&layout=compact&theme=tokyonight) <!-- Error Fetching Resource -->
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
