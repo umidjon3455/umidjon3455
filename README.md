@@ -44,14 +44,7 @@
 
 ---
 
- ⚡ Coding Life
- 🌐 Connect With Me
-
-#### When I explain to the intern how he should build his SQL query:
-
-[When I explain to the intern how he should build his SQL query.webm](https://github.com/user-attachments/assets/92062575-a714-451e-a001-6d9d3486c961)
-
-- Follow me and I will follow you!
+llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
 <p align="center">
 <a href="https://t.me/">
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram">
