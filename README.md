@@ -1,4 +1,10 @@
-<h1 align="center">Hi I'm Umidjon Abdullayev</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=UMIDJON%20ABDULLAYEV&fontSize=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <i>Systems • Mathematics • Depth • Legacy</i>
+</p>
 
 <p align="center">
 💻 Web Developer | Python & Django Developer
