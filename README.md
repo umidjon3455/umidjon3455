@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-💻 Web Developer | Python & Django Developer
+  Web Developer | Python & Django Developer
 </p>
 
 <p align="center">
@@ -16,16 +16,16 @@
 
 ---
 
-### 🚀 About Me
+###   About Me
 
-- 🧑‍💻 I’m learning **Python & Django**
-- 🌐 I build **Websites and Web Apps**
-- 📚 Always learning new technologies
-- 🎯 Goal: Become a **Professional Software Engineer**
+-   I’m learning **Python & Django**
+-   I build **Websites and Web Apps**
+-   Always learning new technologies
+-   Goal: Become a **Professional Software Engineer**
 
 ---
 
-### 🛠 Tech Stack
+###   Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,github,vscode" />
