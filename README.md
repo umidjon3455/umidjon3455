@@ -44,7 +44,13 @@
 
 ---
 
-llllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+genui{"math_block_widget_always_prefetch_v2": {"content": "y = \sin(x)"}}
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'line',data:{labels:[0,1,2,3,4,5,6,7,8,9],datasets:[{data:[0,0.84,0.90,0.14,-0.75,-0.95,-0.27,0.65,0.99,0.41]}]}}" />
+</p>
+
+> Like waves, growth rises and falls — but never stops.
 <p align="center">
 <a href="https://t.me/">
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram">
