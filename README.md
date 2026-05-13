@@ -21,7 +21,7 @@
 -   I’m learning **Python & Django**
 -   I build **Websites and Web Apps**
 -   Always learning new technologies
--   Goal: Become a **Professional Software Engineer**
+-   Goal:  Become a **Professional Software Engineer**
 
 ---
 
