@@ -71,3 +71,7 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,github,vscode,linux" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FFD700,50:FFC300,100:FFAA00" />
+</p>
