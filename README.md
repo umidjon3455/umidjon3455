@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=UMIDJON%20ABDULLAYEV&fontSize=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=UMIDJON%20ABDULLAYEV&fontSize=50&fontAlignY=40&color=0:FFD700,50:FFC300,100:FFAA00&animation=fadeIn" />
 </p>
 
 <p align="center">
