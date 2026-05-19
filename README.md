@@ -32,7 +32,35 @@
 </p>
 
 ---
+<!-- Animated Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
+<!-- Animated Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Backend+Developer;Python+Enthusiast;Telegram+Bot+Creator;Always+Learning+New+Things" />
+</p>
+
+<!-- Animated Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=FFD700&color=0:1a1a1a,50:2b2b2b,100:000000&animation=fadeIn" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umidjon3455&bg_color=000000&color=FFD700&line=FFC300&point=FFD700&area=true&hide_border=true" />
+</p>
+
+<!-- Matrix Style -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-5a9b5f8d-4d63-4d8b-9f4b-6e8b6c5b1d4d.gif" width="700">
+</p>
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FFD700,50:FFC300,100:FFAA00" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=umidjon3455&show_icons=true&bg_color=00000000&title_color=FFD700&text_color=FFD700&icon_color=FFC300&border_color=FFD700" />
