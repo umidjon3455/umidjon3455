@@ -32,10 +32,6 @@
 </p>
 
 ---
-<!-- Animated Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 <!-- Animated Typing -->
 <p align="center">
@@ -55,11 +51,6 @@
 <!-- Matrix Style -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-5a9b5f8d-4d63-4d8b-9f4b-6e8b6c5b1d4d.gif" width="700">
-</p>
-
-<!-- Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FFD700,50:FFC300,100:FFAA00" />
 </p>
 
 <p align="center">
@@ -92,7 +83,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Hi+I'm+Umidjon+Abdullayev;Python+Developer;Django+Backend+Developer;Future+Software+Engineer" />
 </p>
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<!-- Animated Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ![](https://komarev.com/ghpvc/?username=umidjon3455&color=blue)
 
