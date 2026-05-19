@@ -35,26 +35,26 @@
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=umidjon3455&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=umidjon3455&show_icons=true&bg_color=00000000&title_color=FFD700&text_color=FFD700&icon_color=FFC300&border_color=FFD700" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=umidjon3455&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umidjon3455&background=00000000&ring=FFD700&fire=FFC300&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFD700&currStreakNum=FFD700&sideNums=FFD700&border=FFD700" />
 </p>
 
----
-
-genui{"math_block_widget_always_prefetch_v2": {"content": "y = \sin(x)"}}
-
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'line',data:{labels:[0,1,2,3,4,5,6,7,8,9],datasets:[{data:[0,0.84,0.90,0.14,-0.75,-0.95,-0.27,0.65,0.99,0.41]}]}}" />
+  <img src="https://quickchart.io/chart?c={type:'line',data:{labels:[0,1,2,3,4,5,6,7,8,9],datasets:[{label:'Growth',borderColor:'gold',backgroundColor:'rgba(255,215,0,0.2)',data:[0,0.84,0.90,0.14,-0.75,-0.95,-0.27,0.65,0.99,0.41]}]}}" />
 </p>
 
-> Like waves, growth rises and falls — but never stops.
 <p align="center">
-<a href="https://t.me/">
-<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram">
-</a>
+  <b><i>Like waves, growth rises and falls — but never stops.</i></b>
+</p>
+
+<p align="center">
+  <a href="https://t.me/">
+    <img src="https://img.shields.io/badge/Telegram-FFD700?style=for-the-badge&logo=telegram&logoColor=black" />
+  </a>
+</p>
 
 <a href="https://youtube.com/">
 <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube">
