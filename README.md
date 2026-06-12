@@ -70,15 +70,16 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/">
+  <a href="https://t.me/UmidjonAbdullayev5">
     <img src="https://img.shields.io/badge/Telegram-FFD700?style=for-the-badge&logo=telegram&logoColor=black" />
   </a>
 </p>
 
-<a href="https://youtube.com/">
+<a href="https://www.youtube.com/@UmidjonAbdullayev-k2n">
 <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube">
 </a>
 </p>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Hi+I'm+Umidjon+Abdullayev;Python+Developer;Django+Backend+Developer;Future+Software+Engineer" />
 </p>
