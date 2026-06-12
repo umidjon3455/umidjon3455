@@ -71,13 +71,12 @@
 
 <p align="center">
   <a href="https://t.me/UmidjonAbdullayev5">
-    <img src="https://img.shields.io/badge/Telegram-FFD700?style=for-the-badge&logo=telegram&logoColor=black" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-</p>
 
-<a href="https://www.youtube.com/@UmidjonAbdullayev-k2n">
-<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube">
-</a>
+  <a href="https://www.youtube.com/@UmidjonAbdullayev-k2n">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
