@@ -28,7 +28,37 @@
 ###   Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,html,css,js,git,github,vscode" />
+  <a href="https://www.python.org">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  
+  <a href="https://www.djangoproject.com">
+    <img src="https://skillicons.dev/icons?i=django" />
+  </a>
+  
+  <a href="https://developer.mozilla.org/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  
+  <a href="https://developer.mozilla.org/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  
+  <a href="https://git-scm.com">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  
+  <a href="https://github.com">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  
+  <a href="https://code.visualstudio.com">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
 </p>
 
 ---
